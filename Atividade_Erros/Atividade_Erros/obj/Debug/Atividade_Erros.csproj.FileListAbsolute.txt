@@ -1,0 +1,13 @@
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\bin\Debug\Atividade_Erros.exe.config
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\bin\Debug\Atividade_Erros.exe
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\bin\Debug\Atividade_Erros.pdb
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.csproj.AssemblyReference.cache
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.csproj.SuggestedBindingRedirects.cache
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.Atividade1.resources
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.Form1.resources
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.Properties.Resources.resources
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.csproj.GenerateResource.cache
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.csproj.CoreCompileInputs.cache
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.exe
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.pdb
+H:\POO\2ºetapa\Atividade_Erros\Atividade_Erros\obj\Debug\Atividade_Erros.Atividade2.resources
